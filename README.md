@@ -45,6 +45,10 @@ python house_price_prediction.py
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 
+
+![image alt](https://github.com/medisantosh/House-Price-Prediction/blob/b02387cc86c3ec13d2e917df877874905316e2d8/Screenshot_20260706-205734_Pydroid%203~2.jpg)
+
+
 ## Author
 
 Santosh
